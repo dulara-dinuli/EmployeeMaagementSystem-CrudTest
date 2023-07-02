@@ -1,0 +1,27 @@
+.container{
+    position: absolute;
+    top: 25%;
+    left: 18%;
+    width: fit-content;
+    background-color: rgba(230, 243, 255, 0.559);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #7388906c;
+}
+
+h2{
+    margin-top:2%;
+    color:rgb(0, 0, 90);
+    font-weight: bold;
+}
+
+label{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
+}
+
+img{
+    position: absolute;
+    width:38%;
+    right: 10%;
+}

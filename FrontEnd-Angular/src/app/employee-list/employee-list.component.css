@@ -1,0 +1,32 @@
+.container{
+    margin-top:3%;
+}
+
+thead{
+    background-color: rgb(165, 217, 252);
+}
+
+h2{
+    margin-bottom: 3rem;
+    color:rgb(0, 0, 90);
+    font-weight: bold;
+}
+
+th{
+    text-align: center;
+}
+
+.fa-people-line{
+    font-size: 2.8rem;
+    margin-right: 1rem;
+}
+
+td{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+table{
+    --bs-table-hover-color: black;
+    --bs-table-hover-bg: rgba(120, 192, 255, 0.268);
+}
