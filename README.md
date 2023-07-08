@@ -10,7 +10,7 @@ This is a simple test project to practice CRUD operations. Using this web applic
   
 <h3>Used Technologies:</h3>
   <ul>
-    <li>FrontEnd - Angular</li>
+    <li>FrontEnd - Angular (15.1.0)</li>
     <li>BackEnd - SpringBoot</li>
     <li>Database - MySQL</li>
   </ul>
